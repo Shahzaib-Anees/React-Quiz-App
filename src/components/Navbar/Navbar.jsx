@@ -8,7 +8,7 @@ function Navbar() {
         <div className="py-3 px-3 flex items-center gap-1 justify-center">
           <img
             className="w-[70px] h-[70px]"
-            src="../../../public/mind-icn.svg"
+            src="../../assets/mind-icn.svg"
             alt="logo"
           />
           <span className="text-4xl font-bold px-1">The Quiz App</span>
