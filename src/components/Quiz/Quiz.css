@@ -1,0 +1,21 @@
+.quiz-question-container {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.question {
+    border-top: 1px solid #f3f3f3;
+    border-bottom: 1px solid #f3f3f3;
+    background-color: #fbfbfb;
+}
+
+.option-container {
+    border-top: 1px solid #f3f3f3;
+    border-bottom: 1px solid #f3f3f3;
+}
+
+@media(min-width : 200px)and (max-width : 400px) {
+    .quiz-question-container {
+        width: 100%;
+    }
+}
